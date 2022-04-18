@@ -1,7 +1,7 @@
 {
-  "name": "BY Blog",
-  "short_name": "BY Blog",
-  "description": "A personal blog by engineer",
+  "name": "列行科技",
+  "short_name": "列行",
+  "description": "驱动世界的力量",
   "icons": [{
     "src": "icons/pwa_icon_128.png",
     "sizes": "128x128",
